@@ -1,7 +1,3 @@
-# CSCI1423
+#### CSCI1423
+All homework, assignment, lab project for CSCI 1423
 
-This is the new repository for CSCI1423. It's gonna be a great semester.
-
-## Labs
-
-This will be our folder where we keep our lab assignments.
