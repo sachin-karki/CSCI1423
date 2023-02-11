@@ -1,0 +1,10 @@
+This folder contains useful files to drop into the boot partition of a microSD card 
+that has been flashed with Raspbian.  The intent is that these files are placed into 
+the partition after the img file has been flashed but before the first boot of the Pi.
+
+ssh:  This is a zero byte file that will enable the ssh server on first boot for 
+remote logins.
+
+wpa_supplicant.conf:  This file needs to be modified with the appropriate router 
+information and will enable a wireless connection to the specified wireless network on 
+first boot.

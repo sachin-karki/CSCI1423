@@ -1,0 +1,18 @@
+#!/usr/bin/perl
+
+# Variable declarations
+
+$foo = 1;
+$bar = 2;
+$baz = "A";
+
+$qux;
+
+# Printing out varables in an interpolated string
+
+print "$foo $bar\n";
+
+# String Literals 
+
+# String Literals
+

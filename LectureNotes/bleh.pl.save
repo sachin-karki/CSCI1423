@@ -1,0 +1,7 @@
+#!/bin/usr/perl
+
+print "gimee: ";
+@foo = <>;
+foreach (@foo){
+	print "we got $_\n";
+}

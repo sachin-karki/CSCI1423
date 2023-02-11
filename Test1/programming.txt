@@ -1,0 +1,36 @@
+a.Describe the difference between compiled and interpreted languages giving examples for each
+
+Ans: A compiled language is a programming language that translates the entire code at one time,
+and saves an executible file thus saving time for faster execution is called a compiled language.
+C, C++, COBOL are compiled language.
+
+Interpreted language however is a programming language that translates each code line by line,
+then converts them into machine readable form thus taking more time for execution.
+Perl,Python, JavaScript is an example of interpreted language.
+
+b. Describe the difference between strongly and loosely typed languages giving examples of each.
+
+Ans: The language which requires the declaration of a variable at the beginning is called strongly typed 
+language. JAVA is an example
+
+The language that does not require the declartaion of a varibale at the beginning is called loosely typed language.
+Perl is an example.
+
+c. Explain what three things are needed to control a loop in programming.
+Ans: Set, Check, Change are the things needed to control a loop in programming.
+
+The Function of a set is to define and establish the value of an iterator.
+The Fucntion of check inspect or examine those value, make sure it works 
+according to required condition.
+The Function of change is to alter those values.
+
+d. Explain what an array is and how to access individual items in the array.
+Ans: Array is a group of strings or variables combined together to easily access 
+and execute those varibles when needed. 
+for example: @foo = (1,3,9,"apple",5,"cat"); is a an array.
+To access individual items in an array, one can use '[ ]' these brackets and 
+their consecutive number inside those brackets to access them.
+for an instance, if i need to access 3rd item from the above array which is
+technically "9", i would have to do something like this:
+print "show me @foo[2] \n";
+I used the number 2 because inside an array the position of an item starts from 0.

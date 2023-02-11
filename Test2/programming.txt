@@ -1,0 +1,26 @@
+#!/usr/bin/perl
+
+#Module and its importance: 
+Modules are collections of code that you may use along with your script. 
+Modules may contain functions, data, or object-oriented classes. This allows you to put more effort into writing good code that you can then reuse for many purposes.
+A module is a named container for a group of variables and subroutines which can be loaded into the program. 
+It allows programmer to refer back to codes them from multiple programs and solve problems in a manageable way. 
+Module is important because it avoids repetition of the code therefore making it easy for programmers to use same set of variables and data.
+
+#Regular expression and why it is useful: 
+Regular expression or short for regex is a method used in programming for pattern matching and substituting, 
+or simply find and replace. It is useful because it helps in data validation and other purposes like syntax highlighting and data retrieval in search engines.
+
+#Subroutine and why it is useful: 
+Subroutine is also referred as function sometimes, is a group of statement that together performs a task. 
+The purpose of the subroutine is to ensure code reusability, so a programmer does not have write the same code again and again. 
+For example, if you want to prompt the user for input in several places in your program, 
+then you can write the code in a subroutine and call the subroutine wherever you want to prompt user for the input.
+
+#File handle and its importance: 
+FileHandle is like a connection that can be used to modify the contents of an external file 
+and a name is given to the connection (the FileHandle) for faster access and ease. 
+it is the reference to the file, that can be used within the program or until its closure.
+STDIN, STDOUT, and STDERR are three basic file handles. Perl filehandles are capable of creating, reading, opening and closing a file.
+so, File handling is important because it helps in accessing file such as text files, 
+log files or configuration files. 
